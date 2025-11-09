@@ -1,2 +1,2 @@
-# medical-decease-sysytem2
+# medical-decease-predication system
 project 
